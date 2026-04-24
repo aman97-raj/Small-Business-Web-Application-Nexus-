@@ -224,8 +224,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@aman97-raj](https://github.com/your-username)
+- LinkedIn: [https://www.linkedin.com/in/aman-raj-4425033a2?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/your-profile)
 
 ---
 
