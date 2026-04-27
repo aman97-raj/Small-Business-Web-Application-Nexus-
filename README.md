@@ -230,5 +230,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-Made with ❤️ and a lot of ☕ — Give it a ⭐ if you found it useful!
+Made with Aman Raj ❤️ and a lot of ☕ — Give it a ⭐ if you found it useful!
 </div>
